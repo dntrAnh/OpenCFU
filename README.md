@@ -15,6 +15,19 @@ In my repository, OpenCFU plays a crucial role in integrating cutting-edge techn
 
 - **Performance Optimization**: By optimizing the communication platform of the healthcare system, we achieved a 95% increase in efficiency, which was instrumental in securing our position among the top 10 products at the Cornell Health Hackathon, where over 200 attendees participated.
 
-- <iframe src="https://docs.google.com/document/d/e/2PACX-1vSTc7SDPjR-jcfeYXQGLjzrc5pZBiSjLvYBhMETx9mTfeYIRKgRScqAYa2Np6HoDD3JTP665j968WVY/pub?embedded=true"></iframe>
+- [View the Product Portfolio](https://docs.google.com/document/d/e/2PACX-1vSTc7SDPjR-jcfeYXQGLjzrc5pZBiSjLvYBhMETx9mTfeYIRKgRScqAYa2Np6HoDD3JTP665j968WVY/pub)
+- [View the Presentation Deck](https://docs.google.com/presentation/d/19e0Jy_cAYQjSHDl5GIn5C_dbxq7fVcP8bqF4V0jFteU/edit#slide=id.p)
+  
+## Video Introduction
+
+You can watch the introduction video here:
+
+[Watch this video on YouTube](https://youtu.be/9E5vI3ro2eA)
+
+Or see the thumbnail below:
+
+[![Watch the video](https://img.youtube.com/vi/9E5vI3ro2eA/0.jpg)](https://youtu.be/9E5vI3ro2eA)
+
+## Website: https://hmss-swart.vercel.app/
 
 Through the integration of OpenCFU in this project, we aim to leverage technology to significantly improve infection control practices within healthcare facilities, demonstrating the potential for innovative solutions in real-world applications.
