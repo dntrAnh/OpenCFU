@@ -15,4 +15,6 @@ In my repository, OpenCFU plays a crucial role in integrating cutting-edge techn
 
 - **Performance Optimization**: By optimizing the communication platform of the healthcare system, we achieved a 95% increase in efficiency, which was instrumental in securing our position among the top 10 products at the Cornell Health Hackathon, where over 200 attendees participated.
 
+- <iframe src="https://docs.google.com/document/d/e/2PACX-1vSTc7SDPjR-jcfeYXQGLjzrc5pZBiSjLvYBhMETx9mTfeYIRKgRScqAYa2Np6HoDD3JTP665j968WVY/pub?embedded=true"></iframe>
+
 Through the integration of OpenCFU in this project, we aim to leverage technology to significantly improve infection control practices within healthcare facilities, demonstrating the potential for innovative solutions in real-world applications.
